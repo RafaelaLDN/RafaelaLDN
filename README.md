@@ -3,7 +3,6 @@
 
 - 🔭 Sou estudante de Analise e desenvolvimento de sistemas
 - 🌱 Estou estudando a area de Teste
-- 📫 How to reach me: rafaela.bam@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
