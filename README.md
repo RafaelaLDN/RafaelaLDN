@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou estudante de Analise e desenvolvimento de sistemas
-- 🌱 Estou estudando a area de Teste
+- 🌱 Estou estudando desenvolvimento Back-end com Java
 - 😄 Pronouns: ela/dela
 
 ##
