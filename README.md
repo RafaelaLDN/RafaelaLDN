@@ -1,8 +1,8 @@
 ### Oie, eu sou Rafa Nascimento👋
 
-
+- ❤️ Sou a mais nova apaixonada por tecnologia
 - 🔭 Sou estudante de Analise e desenvolvimento de sistemas
-- 🌱 Estou estudando desenvolvimento Back-end com Java
+- 🌱 Estou estudando desenvolvimento Back-end (Java/SQL/AWS)
 - 😄 Pronouns: ela/dela
 
 ##
